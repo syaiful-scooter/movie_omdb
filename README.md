@@ -2,7 +2,7 @@
 
 pencarian judul film, dengan cara input judul dan tekan icon cari
 
-![alt text](https://github.com/syaiful-scooter/tugasTokoJs/blob/84d471beded3b2f787558c71d41372058bf1820f/toko-sepatu-js.jpg)
+![alt text](https://github.com/syaiful-scooter/movie_omdb/blob/main/ScreenShoot%20Movieland.png)
 
 # Getting Started with Create React App
 
