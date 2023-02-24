@@ -1,3 +1,9 @@
+# Latihan React JS menggunakan api omdb
+
+pencarian judul film, dengan cara input judul dan tekan icon cari
+
+![alt text](https://github.com/syaiful-scooter/tugasTokoJs/blob/84d471beded3b2f787558c71d41372058bf1820f/toko-sepatu-js.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
