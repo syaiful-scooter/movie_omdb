@@ -2,7 +2,7 @@
 
 pencarian judul film, dengan cara input judul dan tekan icon cari
 
-![alt text](https://github.com/syaiful-scooter/movie_omdb/blob/main/ScreenShoot%20Movieland.png)
+![alt text](https://github.com/syaiful-scooter/movie_omdb/blob/main/movieland.gif)
 
 # Getting Started with Create React App
 
