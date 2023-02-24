@@ -1,0 +1,19 @@
+Here is your key: 62b2600d
+Please append it to all of your API requests,
+OMDb API: http://www.omdbapi.com/?i=tt3896198&apikey=62b2600d
+
+
+
+
+
+{/* {film?.length > 0 ? (
+        <div className="container">
+          {film.map((dataFilm) => (
+            <FilmCard dataFilm={dataFilm[0]} />
+          ))}
+        </div>
+      ) : (
+        <div className="empty">
+          <h3>Film Tidak ditemukan</h3>
+        </div>
+      )} */}
